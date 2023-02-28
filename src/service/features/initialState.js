@@ -6,3 +6,8 @@ export const initialState = [
         color:'red'
     }
 ]
+
+export const filterInitialState = {
+    status:'All',
+    colors : []
+}   
